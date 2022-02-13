@@ -1,6 +1,6 @@
 selamat malam semua :
 
-tasknya adalah silahkan buat API untuk jadwal keberankatan kereta API, informasi terdiri minimal 2 entitas yang saling berelasi, misalnta :
+Tugasnya adalah silahkan buat API untuk jadwal keberankatan kereta API, informasi terdiri minimal 2 entitas yang saling berelasi, misalnta :
 data jadwal dan tujuan :, response terdiri dari :
 - stasiun tujuan
 - stasiun asal
